@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Vishal Tarwatkar also known as @CodeFunkie.
+- 👀 I’m interested in doing more Open Source Projects in Future.
+- 🌱 I’m currently learning Full-Stack Web Development & Graphic-Designing.
+- 📫 You can reach me using codefunky0@gmail.com.
+- 💓 In a love with coding.
+- ⚡ Fun Fact: Chess Player.
